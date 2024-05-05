@@ -1,0 +1,40 @@
+
+
+.texto-sombreado{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    text-shadow: 0 0 5px;
+    
+}
+.intro-color-cajaM{
+    background-color: rgb(29, 29, 29);
+}
+.intro-color-custom1{
+    background-color: #322C2B;
+}
+.intro-color-custom2{
+    background-color: #222831;
+}
+.introTransitionTitulo{
+    
+    z-index: 1;
+}
+
+.cajaref1:hover .colorTexto {
+    color: white;
+    text-shadow: 0 0 10px #fff,
+    0 0 15px #fff;
+    
+}
+.introContenedorPrincipal{
+    background-image: url(./assets/8782.jpg);
+    background-size: cover;
+    
+}
+
+/*otra pagina*/
+.fondo_personalizado{
+    background-image: url('./assets/34793.jpg');
+    background-size: cover;
+    
+}

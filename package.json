@@ -1,7 +1,7 @@
 {
   "name": "proyecto-dise-osystem",
   "private": true,
-  "homepage": "http://aleasesino.github.io/proyecto-dise-osystem",
+  
   "version": "0.0.0",
   "type": "module",
   "scripts": {
